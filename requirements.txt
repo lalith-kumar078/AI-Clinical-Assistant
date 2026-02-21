@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+shap
+torch
+torchvision
+pillow
+transformers
+pymupdf
+reportlab
