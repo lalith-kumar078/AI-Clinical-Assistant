@@ -12,3 +12,4 @@ pillow
 transformers
 pymupdf
 reportlab
+bcrypt==4.1.2
